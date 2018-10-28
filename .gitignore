@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/slnx.sqlite
+/TechSession/.vs/TechSession/v15/Server/sqlite3
+/TechSession/TechSession/Properties/PublishProfiles
+/TechSession/.vs/TechSession/DesignTimeBuild
